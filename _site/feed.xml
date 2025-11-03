@@ -1,0 +1,23 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://aimarsarachaga.github.io/</id>
+  <title>Aimar Sarachaga</title>
+  <subtitle>Portfolio de Aimar Sarachaga - Técnico Superior en Telecomunicaciones,  estudiante de Inteligencia Artificial y Big Data con interés en DevOps/MLOps.</subtitle>
+  <updated>2025-11-03T10:26:03+01:00</updated>
+  <author>
+    <name>Aimar Sarachaga</name>
+    <uri>https://aimarsarachaga.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://aimarsarachaga.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="es-ES"
+    href="https://aimarsarachaga.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Aimar Sarachaga </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+</feed>
+
+
