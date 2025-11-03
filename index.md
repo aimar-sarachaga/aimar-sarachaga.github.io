@@ -20,6 +20,4 @@ Estudiante de Inteligencia Artificial y Big Data. Apasionado por DevOps/MLOps y 
 ## Enlaces
 - [Portfolio](https://aimar-sarachaga.github.io/)
 - [GitHub](https://github.com/aimar-sarachaga/aimar-sarachaga.github.io)
-
-## Proyectos destacados
-Consulta la pestaña de proyectos para ver algunos de mis trabajos y experimentos.
+ 
